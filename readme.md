@@ -7,4 +7,4 @@ Assignment page for Nathaniel Abay's OMIS 485 course.
 <p class = "p"><a href="faqs.js">Assignemtn 6-1 .js</a></p>
 <p class = "p"><a href="ex6_3.html">Assignment 6-3 .html</a></p>
 <p class = "p"><a href="email_list.js">Assignment 6-3 .js</a></p>
-<p class = "p"><a href="FunctionalityEx6_1-3.html">Assignment 6 functionality PDF</a></p>
+<p class = "p"><a href="FunctionalityEx6_1-3.pdf">Assignment 6 functionality PDF</a></p>
